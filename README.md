@@ -18,5 +18,5 @@
 #### ET-SOLRAD (3Mo).png: graph of Relative Evapotranspiration rates vs Average Relative Humidity, with a linear regression line, in 3 months.
 #### ET-SOLRAD (Initial).png: graph of Relative Evapotranspiration rates vs Average Relative Humidity, with a linear regression line and without Excess Water aesthetic, in 12 months.
 #### ICAlfalfaWaterConsumption.R: file containing the R code used to analyze the data and create the graphs.
-#### IC_Original_Data.zip: zip folder containing raw data, tidied data, and their README file.  
 #### ICET.csv: file containing tidied data uploaded into R.
+#### IC_Original_Data.zip: zip folder containing raw data, tidied data, and their README file.  
